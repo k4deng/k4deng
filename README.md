@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hello there 👋
 
-<!--
-**k4deng/k4deng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my page! I'm k4deng, a gamer and web developer from Florida. I make Discord bots and websites while playing Fortnite. Yes, all at the same time.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects ✨
+
+All of my projects are open source 💗.  
+I dont really use github as a way to have many people work together, more as a way to track my work and share it with the world.
+A few of my projects are as follows:
+
+* **[kato](https://github.com/k4deng/Discord-Bot)** - An advanced multi-purpose discord bot (Music, Logging, Levels, reaction roles etc).
+
+and more which may or may not be coming soon...
+
+### Skills & Tools 🖱️
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k4deng&hide=TeX&layout=compact)
+
+### My Github Stats 📊
+![Github Stats](https://github-readme-stats.vercel.app/api?username=k4deng&count_private=true&show_icons=true&include_all_commits=true)
+
+### Contact me 🤝
+I'm available on a multitude of sites available on my **[linktree](https://linktr.ee/k4deng)**.
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=k4deng.k4deng)
