@@ -9,7 +9,8 @@ All of my projects are open source 💗.
 I dont really use github as a way to have many people work together, more as a way to track my work and share it with the world.
 A few of my projects are as follows:
 
-* **[kato](https://github.com/k4deng/Discord-Bot)** - An advanced multi-purpose discord bot (Music, Logging, Levels, reaction roles etc).
+* **[kato](https://github.com/k4deng/kato)** - An advanced multi-purpose discord bot. 
+* **[k4deng.net](https://github.com/k4deng/k4deng.net)** - My own website, available at [k4deng.net](https://k4deng.net).
 
 and more which may or may not be coming soon...
 
