@@ -18,7 +18,7 @@ and more which may or may not be coming soon...
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k4deng&hide=TeX&layout=compact)
 
 ### My Github Stats 📊
-![Github Stats](https://github-readme-stats.vercel.app/api?username=k4deng&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=k4deng&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true)
 
 ### Contact me 🤝
 I'm available on a multitude of sites available at **[l.k4deng.net](https://l.k4deng.net)**.
